@@ -126,13 +126,11 @@ a#forkme_banner {
   height: 138px;
   display: block;
   background: transparent url(../images/fork-sprite.png) 0 0 no-repeat;
+  background-size: 50%;
   text-indent: -9000px;
   z-index: 3;
 }
 
-a#forkme_banner:hover {
-  background-position: 0 -138px;
-}
 
 /* header */
 
